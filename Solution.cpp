@@ -1,4 +1,6 @@
 
+using namespace std;
+
 // Struct TreeNode is in-built in the solution file on leetcode.com. 
 // When running the code on the website, do not include this struct.
 struct TreeNode {
